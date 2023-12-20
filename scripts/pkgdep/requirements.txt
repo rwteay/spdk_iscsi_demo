@@ -1,0 +1,13 @@
+paramiko
+pexpect
+pandas
+configshell-fb
+pyparsing
+ninja
+meson
+scikit-build
+grpcio
+grpcio-tools
+pyelftools
+python-magic
+pyyaml
